@@ -1,0 +1,19 @@
+body{
+    background-color: darkorange;
+}
+
+h1{
+    color: darkgreen;
+    text-align: center;
+}
+
+.friend{
+    background-color: aquamarine;
+    text-align: center;
+    border: 1px dashed black;
+}
+
+h3{
+    text-transform: uppercase;
+    text-decoration: underline;
+}
